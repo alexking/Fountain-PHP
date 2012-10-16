@@ -2,6 +2,8 @@
 
 I've started a port of the Fountain Objective-C library to PHP. So far there is a basic parser/tokenizer available in the PHP directory. Please let me know if you're aware of any existing PHP ports, I'd hate to duplicate something that already exists.
 
+- Alex King
+
 # Fountain
 
 Fountain is a simple markup syntax that allows screenplays to be written, edited, and shared in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer, using any software that edits text files.
