@@ -2,7 +2,7 @@
 
 I've started a port of the Fountain Objective-C library to PHP. So far there is a basic parser/tokenizer available in the PHP directory. Please let me know if you're aware of any existing PHP ports, I'd hate to duplicate something that already exists.
 
-- Alex King
+-Alex King
 
 # Fountain
 
